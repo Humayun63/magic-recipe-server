@@ -2,7 +2,7 @@
     {
       "id": "d41d8cd98f00b204e9800998ecf8427e",
       "name": "Alice Waters",
-      "picture": "https://example.com/alice-waters.jpg",
+      "picture": "https://i.ibb.co/CJgxJkS/image-2.jpg",
       "bio": "Alice Waters is an American chef and owner of Chez Panisse, a renowned Berkeley restaurant famous for its locally sourced, organic ingredients.",
       "experience": 40,
       "numRecipes": 120,
@@ -11,7 +11,7 @@
     {
       "id": "a2e865a2ce2e89f21a67d0c22bcaf1e5",
       "name": "Gordon Ramsay",
-      "picture": "https://example.com/gordon-ramsay.jpg",
+      "picture": "https://i.ibb.co/3cgDRwM/image-1.jpg",
       "bio": "Gordon Ramsay is a British chef, restaurateur, and television personality known for his fiery temper and high standards in the kitchen.",
       "experience": 35,
       "numRecipes": 90,
@@ -20,7 +20,7 @@
     {
       "id": "3b3f8f3ec12f791d0ccab60a97ea45d8",
       "name": "Ina Garten",
-      "picture": "https://example.com/ina-garten.jpg",
+      "picture": "https://i.ibb.co/m060kqz/customer3.jpg",
       "bio": "Ina Garten is an American chef, author, and television personality known for her easy, elegant recipes and warm personality.",
       "experience": 30,
       "numRecipes": 80,
@@ -29,7 +29,7 @@
     {
       "id": "8a980cc1151c706d29ed6b3a6b65a594",
       "name": "Masaharu Morimoto",
-      "picture": "https://example.com/masaharu-morimoto.jpg",
+      "picture": "https://i.ibb.co/LzVMWjz/customer2.jpg",
       "bio": "Masaharu Morimoto is a Japanese chef, restaurateur, and Iron Chef known for his fusion of traditional Japanese ingredients with Western culinary techniques.",
       "experience": 25,
       "numRecipes": 70,
@@ -38,7 +38,7 @@
     {
       "id": "9e9c8d840d93a95e22d69cd2ca0a23a1",
       "name": "Yotam Ottolenghi",
-      "picture": "https://example.com/yotam-ottolenghi.jpg",
+      "picture": "https://i.ibb.co/QcC2M06/customer1.jpg",
       "bio": "Yotam Ottolenghi is an Israeli-British chef, restaurateur, and author known for his colorful, vegetable-focused recipes that draw inspiration from Middle Eastern and Mediterranean cuisine.",
       "experience": 20,
       "numRecipes": 60,
@@ -46,8 +46,8 @@
     },
     {
       "id": "d8096f78e6a0b6d2b7a2b6a74a7f6158",
-      "name": "Christina Tosi",
-      "picture": "https://example.com/christina-tosi.jpg",
+      "name": "Rubiya Nafiza",
+      "picture": "https://i.ibb.co/MfgwGy3/image-3.webp",
       "bio": "Christina Tosi is an American chef, author, and founder of the Milk Bar bakery chain, known for her playful, nostalgic desserts like cereal milk ice cream and crack pie.",
       "experience": 15,
       "numRecipes": 50,
