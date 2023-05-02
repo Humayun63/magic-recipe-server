@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "John Smith",
+        "review": "This is the best recipe website I've ever used!",
+        "image": "https://i.ibb.co/Z6DB04b/jurica-koletic-7-YVZYZe-ITc8-unsplash.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Jane Doe",
+        "review": "The recipes on this site are so easy to follow!",
+        "image": "https://i.ibb.co/fk3QVSt/kamran-ch-pq-IC34i-y-FU-unsplash.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Bob Johnson",
+        "review": "I've tried several recipes from this site and they've all been delicious!",
+        "image": "https://i.ibb.co/S3rcq4d/localize-TZw-DRq2-Mq-Xs-unsplash.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Alice Williams",
+        "review": "The site is user-friendly and the recipes are amazing!",
+        "image": "https://i.ibb.co/qn7BX0q/rahabi-khan-e-Nafqf-0-ZWQ-unsplash.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Tom Wilson",
+        "review": "I've been able to impress my friends with the dishes I've learned from this site.",
+        "image": "https://i.ibb.co/vZs7bgt/bruce-mars-8-YG31-Xn4d-Sw-unsplash.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Sara Lee",
+        "review": "I love how this site has a wide variety of recipes for different diets and preferences.",
+        "image": "https://i.ibb.co/HhWt2VB/cesar-rincon-XHVp-Wcr5gr-Q-unsplash.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Mike Johnson",
+        "review": "I'm a beginner cook and this site has helped me learn so much!",
+        "image": "https://i.ibb.co/5hhNgH6/fethi-bouhaouchine-61-Ow-Jmr0mi0-unsplash.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Emily Wilson",
+        "review": "The pictures on this site make the recipes look so appetizing!",
+        "image": "https://i.ibb.co/68zDY7z/foto-sushi-6anudmp-ILw4-unsplash.jpg"
+    }
+]
