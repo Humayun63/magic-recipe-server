@@ -4,7 +4,9 @@
         "recipes": [
             {
                 "id": 1,
+                "chefName":"Alice Waters",
                 "name": "Classic Spaghetti and Meatballs",
+                "picture":"https://i.ibb.co/F0RGTLm/img1.jpg",
                 "ingredients": [
                     "1 lb ground beef",
                     "1/2 cup breadcrumbs",
@@ -18,7 +20,9 @@
             },
             {
                 "id": 2,
+                "chefName":"Alice Waters",
                 "name": "Chicken Fajitas",
+                "picture":"https://i.ibb.co/6RVFcjZ/2.jpg",
                 "ingredients": [
                     "1 lb boneless, skinless chicken breasts, sliced",
                     "1 red bell pepper, sliced",
@@ -36,7 +40,9 @@
             },
             {
                 "id": 3,
+                "chefName":"Alice Waters",
                 "name": "Roasted Garlic Mashed Potatoes",
+                "picture": "https://i.ibb.co/7nP7GzB/potatos.jpg",
                 "ingredients": [
                     "2 lbs Yukon Gold potatoes, peeled and diced",
                     "1 head garlic",
@@ -54,7 +60,9 @@
         "recipes": [
             {
                 "id": 1,
+                "chefName":"Gordon Ramsay",
                 "name": "Grilled Lemon Herb Chicken",
+                "picture": "https://i.ibb.co/52gMrbb/download.jpg",
                 "ingredients": [
                     "4 boneless, skinless chicken breasts",
                     "1/4 cup olive oil",
@@ -69,7 +77,9 @@
             },
             {
                 "id": 2,
+                "chefName":"Gordon Ramsay",
                 "name": "Spinach and Feta Stuffed Pork Tenderloin",
+                "picture": "https://i.ibb.co/svprV2X/download-1.jpg",
                 "ingredients": [
                     "1 pork tenderloin",
                     "2 cups fresh spinach, chopped",
@@ -84,7 +94,9 @@
             },
             {
                 "id": 3,
+                "chefName":"Gordon Ramsay",
                 "name": "Creamy Garlic Shrimp Pasta",
+                "picture": "https://i.ibb.co/YLkPCCZ/download-2.jpg",
                 "ingredients": [
                     "8 oz spaghetti",
                     "1 lb large shrimp, peeled and deveined",
@@ -105,7 +117,9 @@
         "recipes": [
             {
                 "id": 1,
+                "chefName":"Ina Garten",
                 "name": "Classic Spaghetti and Meatballs",
+                "picture":"https://i.ibb.co/F0RGTLm/img1.jpg",
                 "ingredients": [
                     "1 lb ground beef",
                     "1/2 cup breadcrumbs",
@@ -119,7 +133,9 @@
             },
             {
                 "id": 2,
+                "chefName":"Ina Garten",
                 "name": "Spinach and Feta Stuffed Pork Tenderloin",
+                "picture": "https://i.ibb.co/svprV2X/download-1.jpg",
                 "ingredients": [
                     "1 pork tenderloin",
                     "2 cups fresh spinach, chopped",
@@ -134,7 +150,9 @@
             },
             {
                 "id": 3,
+                "chefName":"Ina Garten",
                 "name": "Creamy Garlic Shrimp Pasta",
+                "picture": "https://i.ibb.co/YLkPCCZ/download-2.jpg",
                 "ingredients": [
                     "8 oz spaghetti",
                     "1 lb large shrimp, peeled and deveined",
@@ -155,7 +173,9 @@
         "recipes": [
             {
                 "id": 1,
+                "chefName":"Masaharu Morimoto",
                 "name": "Spinach and Feta Stuffed Pork Tenderloin",
+                "picture": "https://i.ibb.co/svprV2X/download-1.jpg",
                 "ingredients": [
                     "1 pork tenderloin",
                     "2 cups fresh spinach, chopped",
@@ -170,7 +190,9 @@
             },
             {
                 "id": 2,
+                "chefName":"Masaharu Morimoto",
                 "name": "Chicken Fajitas",
+                "picture":"https://i.ibb.co/6RVFcjZ/2.jpg",
                 "ingredients": [
                     "1 lb boneless, skinless chicken breasts, sliced",
                     "1 red bell pepper, sliced",
@@ -188,7 +210,9 @@
             },
             {
                 "id": 3,
+                "chefName":"Masaharu Morimoto",
                 "name": "Roasted Garlic Mashed Potatoes",
+                "picture": "https://i.ibb.co/7nP7GzB/potatos.jpg",
                 "ingredients": [
                     "2 lbs Yukon Gold potatoes, peeled and diced",
                     "1 head garlic",
@@ -206,7 +230,9 @@
         "recipes": [
             {
                 "id": 1,
+                "chefName":"Yotam Ottolenghi",
                 "name": "Classic Spaghetti and Meatballs",
+                "picture":"https://i.ibb.co/F0RGTLm/img1.jpg",
                 "ingredients": [
                     "1 lb ground beef",
                     "1/2 cup breadcrumbs",
@@ -220,7 +246,9 @@
             },
             {
                 "id": 2,
+                "chefName":"Yotam Ottolenghi",
                 "name": "Chicken Fajitas",
+                "picture":"https://i.ibb.co/6RVFcjZ/2.jpg",
                 "ingredients": [
                     "1 lb boneless, skinless chicken breasts, sliced",
                     "1 red bell pepper, sliced",
@@ -238,7 +266,9 @@
             },
             {
                 "id": 3,
+                "chefName":"Yotam Ottolenghi",
                 "name": "Roasted Garlic Mashed Potatoes",
+                "picture": "https://i.ibb.co/7nP7GzB/potatos.jpg",
                 "ingredients": [
                     "2 lbs Yukon Gold potatoes, peeled and diced",
                     "1 head garlic",
@@ -256,7 +286,9 @@
         "recipes": [
             {
                 "id": 1,
+                "chefName":"Rubiya Nafiza",
                 "name": "Classic Spaghetti and Meatballs",
+                "picture":"https://i.ibb.co/F0RGTLm/img1.jpg",
                 "ingredients": [
                     "1 lb ground beef",
                     "1/2 cup breadcrumbs",
@@ -270,7 +302,9 @@
             },
             {
                 "id": 2,
+                "chefName":"Rubiya Nafiza",
                 "name": "Chicken Fajitas",
+                "picture":"https://i.ibb.co/6RVFcjZ/2.jpg",
                 "ingredients": [
                     "1 lb boneless, skinless chicken breasts, sliced",
                     "1 red bell pepper, sliced",
@@ -288,7 +322,9 @@
             },
             {
                 "id": 3,
+                "chefName":"Rubiya Nafiza",
                 "name": "Roasted Garlic Mashed Potatoes",
+                "picture": "https://i.ibb.co/7nP7GzB/potatos.jpg",
                 "ingredients": [
                     "2 lbs Yukon Gold potatoes, peeled and diced",
                     "1 head garlic",
